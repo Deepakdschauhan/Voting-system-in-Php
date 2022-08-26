@@ -1,4 +1,3 @@
 # dschauhanprojects
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+this is my repository ..
+here i upload my projects and assignments..
