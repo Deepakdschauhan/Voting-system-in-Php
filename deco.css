@@ -1,0 +1,22 @@
+.form{
+    background-color: aqua;
+    text-align:center;
+}
+.confirm{
+    background-color: rgb(0, 0, 255);
+    text-align:center;
+}
+input{
+    padding: 8px;
+}
+#btn1{
+    background-color:rgba(160, 123, 95, 0);
+}
+#btn2{
+    background-color:rgba(95, 95, 160, 0);
+}
+#editbtn{
+    position: fixed;
+    bottom: 1px;
+    left: 0px;
+}
